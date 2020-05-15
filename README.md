@@ -1,11 +1,11 @@
 DETAILS:
 ------------------------------------------------------------
 Our API is divided into sub folders: (for the structure enhancement)
-Assets : for the static media.
-Helpers : for the validation of each model.
-Models : for each entity we have (Product, User, Order and OrderStatus).
-Node modules: for the installed packages.
-Routes : for the middlewares and the main functionalities.
+1. Assets : for the static media.
+2. Helpers : for the validation of each model.
+3. Models : for each entity we have (Product, User, Order and OrderStatus).
+4. Node modules: for the installed packages.
+5. Routes : for the middlewares and the main functionalities.
 
 	*Node: “index.js” file is the entry point of our API.
   
