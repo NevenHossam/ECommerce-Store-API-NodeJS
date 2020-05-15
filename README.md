@@ -8,7 +8,6 @@ Our API is divided into sub folders: (for the structure enhancement)
 5. Routes : for the middlewares and the main functionalities.
 
 	*Node: “index.js” file is the entry point of our API.
-	------
   
 -----------------------------------------------------------------------
 
